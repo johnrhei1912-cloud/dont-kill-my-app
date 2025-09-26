@@ -1,42 +1,4 @@
----
-manufacturer: 
-    - realme
-
----
-
-Luckily, the system restrictions are all gathered at one place in the system settings in the Battery section, and also have some description there.
-
-<div class="img-block">
-  <figure>
-    <img src="/assets/img/realme/realme_1.jpg">
-    <figcaption>Settings -> Battery</figcaption>
-  </figure>
-
-  <figure>
-    <img src="/assets/img/realme/realme_new_battery.jpg">
-    <figcaption>Settings -> Battery section on other versions.</figcaption>
-  </figure>
-
-</div>
-
-
-## Power saving options
-
-* <strong>Power saving mode</strong> - reduces screen brightness, changes auto screen-off time to 15s and disables background sync.<br>
-Can be set to launch automatically at a set battery level.<br>
-It may terminate background processes.<br>
-
-* <strong>Super power saving mode</strong>  - extra saving option, allows you to have at most 6 apps to use.<br>
-It will disrupt background processes.
-
-
-## App battery management
-
-<div class="img-block">
-  <figure>
-    <img src="/assets/img/realme/realme_2.jpg">
-    <figcaption>1. Open app battery management     <br> 2. Choose the app from the list.</figcaption>
-  </figure>
+<a href="https://dontkillmyapp.com/realme"><img id="badge-shareable" width="306px" src="https://dontkillmyapp.com/badge/realme3.svg"></a></figure>
 
   <figure>
     <img src="/assets/img/realme/realme_3.jpg">
